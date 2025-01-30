@@ -1,7 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJnM21lb3o3YmowanQzeWhjNTB0bmV4bTNqbjF6b3BvdnBvdHJlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="100"/>
-</div>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69a673a4-482e-4853-8074-4371ffecdb1f" width="300">
+</p>
 <h1 align="center">Привет, меня зовут Ира! 👋</h1>
 
 <p align="center">
@@ -11,10 +10,10 @@
 
 ### 👨‍💻 Немного обо мне:  
 
+📈 Мечтала стать аналитиком данных, и мечта сбылась  
 🔬 Работала в научной лаборатории НИИ Экспериментальной Медицины  
 📊 Обожаю статистику  
-📈 Много лет мечтала стать аналитиком данных, и вот — мечта сбылась  
-
+  
 Готова к сотрудничеству! 🤝
 
 ### Что я умею:
