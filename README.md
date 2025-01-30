@@ -57,6 +57,6 @@
 <h3 align="left">Мои соцсети и подкаст про статистику:</h3>
 <p align="left">
 <a href="https://instagram.com/_soiushka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_soiushka_" height="30" width="40" /></a>
-<a href="/https://cloud.mave.digital/52470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cloud.mave.digital/52470" height="30" width="40" /></a>
+<a href="https://nora.mave.digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cloud.mave.digital/52470" height="30" width="40" /></a>
 </p>
 
